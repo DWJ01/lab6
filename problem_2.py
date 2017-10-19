@@ -18,3 +18,5 @@ emp_2 = Employee('Mark Jones',39119,'IT','Programmer')
 emp_3 = Employee('Joy Rogers',81774,'Manufacturing','Engineer')
 
 print(emp_1.__dict__, emp_2.__dict__, emp_3.__dict__)
+
+#hi~~
